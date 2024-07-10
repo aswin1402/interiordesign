@@ -1,0 +1,30 @@
+*{
+  font-family: "Bona Nova SC", serif;
+    margin: 0;
+    padding: 0;
+     /* background-color: #74512D;  */
+}
+.card:hover{
+  transform: scale(1.1);
+}
+.card{
+  transition: transform(0.5);
+}
+#work{
+    background-color: #08090a;
+}
+ .card{
+    background-color:#090a0a;
+}
+#contact{
+    background-color: #0d0c0b;
+   padding: 70px;
+  
+}
+#footer{
+    background-color: #f8f8f8;
+}
+#contact h1{
+  color: #fbf3f3;
+}
+
